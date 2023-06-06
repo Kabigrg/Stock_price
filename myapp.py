@@ -2,7 +2,7 @@
 """
 Created on Mon Jun  5 17:31:42 2023
 
-@author: Ashmita
+
 """
 import json
 import requests
